@@ -24,7 +24,9 @@
     "error2002": "Error 2002 Contact Staff To Fix The Problem",
     "error2001": "Error 2001 Contact Staff To Fix The Problem",
     "error1002": "Error 1002 Contact Staff To Fix The Problem",
-    "error1001": "Error 1001 Contact Staff To Fix The Problem"
+    "error1001": "Error 1001 Contact Staff To Fix The Problem",
+    "servernickchanger_successmsg": "Changed nickname",
+    "servernickchanger_errormsg": "Error"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -51,7 +53,9 @@
     "error2002": "Erreur 2002 Contacter le personnel pour résoudre le problème",
     "error2001": "Erreur 2001 Contacter le personnel pour résoudre le problème",
     "error1002": "Erreur 1002 Contacter le personnel pour résoudre le problème",
-    "error1001": "Erreur 1001 Contacter le personnel pour résoudre le problème"
+    "error1001": "Erreur 1001 Contacter le personnel pour résoudre le problème",
+    "servernickchanger_successmsg": "Le surnom est changé",
+    "servernickchanger_errormsg": "Erreur"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -78,7 +82,9 @@
     "error2002": "Ошибка 2002 Свяжитесь с сотрудниками для устранения проблемы",
     "error2001": "Ошибка 2001 Свяжитесь с сотрудниками для устранения проблемы",
     "error1002": "Ошибка 1002 Свяжитесь с сотрудниками для устранения проблемы",
-    "error1001": "Ошибка 1001 Свяжитесь с сотрудниками для устранения проблемы"
+    "error1001": "Ошибка 1001 Свяжитесь с сотрудниками для устранения проблемы",
+    "servernickchanger_successmsg": "Сменил никнейм",
+    "servernickchanger_errormsg": "Ошибка"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -105,6 +111,8 @@
     "error2002": "Błąd 2002 Skontaktuj się z personelem, aby naprawić problem",
     "error2001": "Błąd 2001 Skontaktuj się z personelem, aby naprawić problem",
     "error1002": "Błąd 1002 Skontaktuj się z personelem, aby naprawić problem",
-    "error1001": "Błąd 1001 Skontaktuj się z personelem, aby naprawić problem"
+    "error1001": "Błąd 1001 Skontaktuj się z personelem, aby naprawić problem",
+    "servernickchanger_successmsg": "Pseudonim zmieniony",
+    "servernickchanger_errormsg": "Błąd"
   }
 }

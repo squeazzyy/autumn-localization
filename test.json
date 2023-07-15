@@ -11,12 +11,12 @@
     "joiner_finished_joining": "Finished Joining",
     "menu_invalid_option": "Invalid option... Going back to Main UI.",
     "menu_guild_id": "Guild ID",
-    "console_info": "test",
-    "console_solver": "",
-    "console_websocket": "",
-    "console_error": "",
-    "console_success": "",
-    "console_locked": ""
+    "console_info": "INFO",
+    "console_solver": "SOLVED",
+    "console_websocket": "WEBSOCKET",
+    "console_error": "ERROR",
+    "console_success": "SUCCESS",
+    "console_locked": "LOCKED"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -30,12 +30,12 @@
     "joiner_finished_joining": "C'est fait",
     "menu_invalid_option": "Option non valide... Retour à l'interface principale.",
     "menu_guild_id": "Identifiant du serveur",
-    "console_info": "",
-    "console_solver": "",
-    "console_websocket": "",
-    "console_error": "",
-    "console_success": "te",
-    "console_locked": ""
+    "console_info": "INFO",
+    "console_solver": "SOLVÉ",
+    "console_websocket": "WEBSOCKET",
+    "console_error": "ERREUR",
+    "console_success": "SUCCÈS",
+    "console_locked": "LOCKED"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -49,11 +49,11 @@
     "joiner_finished_joining": "Готово",
     "menu_invalid_option": "Неверная фунцкия... Возврат к основному меню.",
     "menu_guild_id": "ID Сервера",
-    "console_info": "tes",
-    "console_solver": "",
-    "console_websocket": "",
-    "console_error": "",
-    "console_success": "",
-    "console_locked": "j"
+    "console_info": "ИНФОРМАЦИЯ",
+    "console_solver": "РЕШЕНА КАПЧА",
+    "console_websocket": "WEBSOCKET",
+    "console_error": "ОШИБКА",
+    "console_success": "УСПЕШНО",
+    "console_locked": "LOCKED"
   }
 }

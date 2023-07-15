@@ -16,7 +16,10 @@
     "console_websocket": "WEBSOCKET",
     "console_error": "ERROR",
     "console_success": "SUCCESS",
-    "console_locked": "LOCKED"
+    "console_locked": "LOCKED",
+    "outdated_printoutdatedtext1": "You're using outdated tool version",
+    "outdated_printoutdatedtext2": "Your tool version:",
+    "outdated_printoutdatedtext2": "latest tool version:"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -35,7 +38,10 @@
     "console_websocket": "WEBSOCKET",
     "console_error": "ERREUR",
     "console_success": "SUCCÈS",
-    "console_locked": "LOCKED"
+    "console_locked": "LOCKED",
+    "outdated_printoutdatedtext1": "Vous utilisez une version obsolète de l'outil",
+    "outdated_printoutdatedtext2": "La version de votre outil:",
+    "outdated_printoutdatedtext2": "dernière version de l'outil:"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -54,6 +60,9 @@
     "console_websocket": "WEBSOCKET",
     "console_error": "ОШИБКА",
     "console_success": "УСПЕШНО",
-    "console_locked": "LOCKED"
+    "console_locked": "LOCKED",
+    "outdated_printoutdatedtext1": "Вы используете устаревшую версию программы",
+    "outdated_printoutdatedtext2": "Версия вашей программы:",
+    "outdated_printoutdatedtext2": "Последняя версия программы:"
   }
 }

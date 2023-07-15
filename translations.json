@@ -9,8 +9,15 @@
     "1_5proxy": "Proxy",
     "joiner_invite": "Invite",
     "joiner_finished_joining": "Finished Joining",
+    "joiner_joined": "Joined",
+    "joiner_ratelimited_by_cloudflare": "RATELIMITED BY CLOUDFLARE",
+    "joiner_token_locked": "Token Locked",
+    "joiner_captcha": "Captcha",
+    "joiner_unknown_error": "UNKNOWN ERROR",
+    "joiner_failed_to_send_request": "Failed to send request",
     "menu_invalid_option": "Invalid option... Going back to Main UI.",
     "menu_guild_id": "Guild ID",
+    "menu_channel_id": "Channel ID",
     "console_info": "INFO",
     "console_solver": "SOLVED",
     "console_websocket": "WEBSOCKET",
@@ -26,7 +33,9 @@
     "error1002": "Error 1002 Contact Staff To Fix The Problem",
     "error1001": "Error 1001 Contact Staff To Fix The Problem",
     "servernickchanger_successmsg": "Changed nickname",
-    "servernickchanger_errormsg": "Error"
+    "servernickchanger_errormsg": "Error",
+    "server_leaver_left": "Left",
+    "server_leaver_error": "Error"
   },
   "fr": {
     "news": "NOUVELLES",
@@ -38,8 +47,15 @@
     "1_5proxy": "Proxy",
     "joiner_invite": "Invite",
     "joiner_finished_joining": "C'est fait",
+    "joiner_joined": "Rejoint",
+    "joiner_ratelimited_by_cloudflare": "RATELIMITED BY CLOUDFLARE",
+    "joiner_token_locked": "Token verrouillé",
+    "joiner_captcha": "Captcha",
+    "joiner_unknown_error": "ERREUR INCONNUE",
+    "joiner_failed_to_send_request": "Échec de l'envoi de la demande",
     "menu_invalid_option": "Option non valide... Retour à l'interface principale.",
     "menu_guild_id": "Identifiant du serveur",
+    "menu_channel_id": "Identification du canal",
     "console_info": "INFO",
     "console_solver": "SOLVÉ",
     "console_websocket": "WEBSOCKET",
@@ -55,7 +71,9 @@
     "error1002": "Erreur 1002 Contacter le personnel pour résoudre le problème",
     "error1001": "Erreur 1001 Contacter le personnel pour résoudre le problème",
     "servernickchanger_successmsg": "Le surnom est changé",
-    "servernickchanger_errormsg": "Erreur"
+    "servernickchanger_errormsg": "Erreur",
+    "server_leaver_left": "Gauche",
+    "server_leaver_error": "Erreur"
   },
   "ru": {
     "news": "НОВОСТИ",
@@ -67,8 +85,15 @@
     "1_5proxy": "Прокси",
     "joiner_invite": "Приглашение",
     "joiner_finished_joining": "Готово",
+    "joiner_joined": "Присоеденился",
+    "joiner_ratelimited_by_cloudflare": "РЕЙТЛИМИТ ОТ CLOUDFLARE",
+    "joiner_token_locked": "Токен Не подтвержден",
+    "joiner_captcha": "Капча",
+    "joiner_unknown_error": "НЕИЗВЕСТНАЯ ОШИБКА",
+    "joiner_failed_to_send_request": "Не удалось отправить запрос",
     "menu_invalid_option": "Неверная фунцкия... Возврат к основному меню.",
     "menu_guild_id": "ID Сервера",
+    "menu_channel_id": "ID Канала",
     "console_info": "ИНФОРМАЦИЯ",
     "console_solver": "РЕШЕНА КАПЧА",
     "console_websocket": "WEBSOCKET",
@@ -84,7 +109,9 @@
     "error1002": "Ошибка 1002 Свяжитесь с сотрудниками для устранения проблемы",
     "error1001": "Ошибка 1001 Свяжитесь с сотрудниками для устранения проблемы",
     "servernickchanger_successmsg": "Сменил никнейм",
-    "servernickchanger_errormsg": "Ошибка"
+    "servernickchanger_errormsg": "Ошибка",
+    "server_leaver_left": "Вышел",
+    "server_leaver_error": "Ошибка"
   },
   "pl": {
     "news": "NOWOŚCI",
@@ -96,8 +123,15 @@
     "1_5proxy": "Pełnomocnik",
     "joiner_invite": "Zaproszenie",
     "joiner_finished_joining": "Gotowe",
+    "joiner_joined": "Dołączył",
+    "joiner_ratelimited_by_cloudflare": "RATELIMITED BY CLOUDFLARE",
+    "joiner_token_locked": "Token Locked",
+    "joiner_captcha": "Captcha",
+    "joiner_unknown_error": "NIEZNANY BŁĄD",
+    "joiner_failed_to_send_request": "Nie udało się wysłać żądania",
     "menu_invalid_option": "Nieprawidłowa opcja... Powrót do głównego interfejsu użytkownika.",
     "menu_guild_id": "Identyfikator gildii",
+    "menu_channel_id": "Identyfikator kanału",
     "console_info": "INFORMACJA",
     "console_solver": "ROZWIĄZANE",
     "console_websocket": "WEBSOCKET",
@@ -113,6 +147,8 @@
     "error1002": "Błąd 1002 Skontaktuj się z personelem, aby naprawić problem",
     "error1001": "Błąd 1001 Skontaktuj się z personelem, aby naprawić problem",
     "servernickchanger_successmsg": "Pseudonim zmieniony",
-    "servernickchanger_errormsg": "Błąd"
+    "servernickchanger_errormsg": "Błąd",
+    "server_leaver_left": "Lewa",
+    "server_leaver_error": "Błąd"
   }
 }

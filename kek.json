@@ -79,5 +79,33 @@
     "error2001": "Ошибка 2001 Свяжитесь с сотрудниками для устранения проблемы",
     "error1002": "Ошибка 1002 Свяжитесь с сотрудниками для устранения проблемы",
     "error1001": "Ошибка 1001 Свяжитесь с сотрудниками для устранения проблемы"
+  },
+  {
+  "pl": {
+    "news": "NOWOŚCI",
+    "soon": "WKRÓTCE",
+    "1_1proxy": "Załadowany",
+    "1_2proxy": "Tokens",
+    "1_3proxy": "Załadowany",
+    "1_4proxy": "Pełnomocnicy",
+    "1_5proxy": "Pełnomocnik",
+    "joiner_invite": "Zaproszenie",
+    "joiner_finished_joining": "Gotowe",
+    "menu_invalid_option": "Nieprawidłowa opcja... Powrót do głównego interfejsu użytkownika.",
+    "menu_guild_id": "Identyfikator gildii",
+    "console_info": "INFORMACJA",
+    "console_solver": "ROZWIĄZANE",
+    "console_websocket": "WEBSOCKET",
+    "console_error": "BŁĄD",
+    "console_success": "SUKCES",
+    "console_locked": "ZABLOKOWANY",
+    "outdated_printoutdatedtext1": "Używasz przestarzałej wersji narzędzia",
+    "outdated_printoutdatedtext2": "Wersja narzędzia:",
+    "outdated_printoutdatedtext3": "najnowsza wersja narzędzia:",
+    "error3001": "Błąd 3001 Skontaktuj się z personelem, aby naprawić problem",
+    "error2002": "Błąd 2002 Skontaktuj się z personelem, aby naprawić problem",
+    "error2001": "Błąd 2001 Skontaktuj się z personelem, aby naprawić problem",
+    "error1002": "Błąd 1002 Skontaktuj się z personelem, aby naprawić problem",
+    "error1001": "Błąd 1001 Skontaktuj się z personelem, aby naprawić problem"
   }
 }
